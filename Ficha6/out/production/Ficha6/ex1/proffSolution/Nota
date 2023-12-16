@@ -1,6 +1,0 @@
-Elabore um programa que lance a execução de cinco threads. Cada thread deve
-escrever 200 números num ficheiro de texto. Garanta a exclusão mútua nas
-operações de escrita. O nome do ficheiro deverá ser passado como argumento da
-linha de comandos;
-
-- Na proposta de resolução do professor o programa nao está  a escrever num ficheiro e sim a imprimir na consola.
